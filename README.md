@@ -79,6 +79,8 @@
 - 데이터 양이 적어서 과적합 된 것으로 보인다.
 - 결정나무의 같은 경우에는 독립변수 선택별로 성능차이가 나서 구분이 가능하다.
 
+---
+
 오버샘플링
 - https://github.com/jx-dohwan/Initial_public_offering_price_prediction/blob/main/sampling.ipynb
 
