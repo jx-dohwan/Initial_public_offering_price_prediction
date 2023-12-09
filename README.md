@@ -1,5 +1,4 @@
 # 공모가 시초가 예측 프로젝트
-## [자세한 설명은 해당 링크의 파일을 참고해주세요](https://github.com/jx-dohwan/Initial_public_offering_price_prediction/blob/main/5%EC%A1%B0_%EA%B2%BD%EC%98%81%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B3%B4%EA%B3%A0%EC%84%9C_1%EC%B0%A8(%EC%99%84%EC%84%B1%EB%B3%B8).docx)
 
 
 ### 공모주 시초가 예측
@@ -26,6 +25,8 @@
 #### 6. 최종모델 구현 : 인공지능 신경망을 통한 15개의 변수로 최종 모델 학습을 진행하여 최종모델 구현
 #### 7. 최종 결론과 한계점
 
+---
+## [자세한 설명은 해당 링크의 파일을 참고해주세요](https://github.com/jx-dohwan/Initial_public_offering_price_prediction/blob/main/5%EC%A1%B0_%EA%B2%BD%EC%98%81%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B3%B4%EA%B3%A0%EC%84%9C_1%EC%B0%A8(%EC%99%84%EC%84%B1%EB%B3%B8).docx)
 
 
 
